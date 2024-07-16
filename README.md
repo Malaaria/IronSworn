@@ -1,5 +1,5 @@
 # IronSworn
-Repository to save anything relative to Ironsworn RPG [https://www.ironswornrpg.com/](https://www.ironswornrpg.com/)
+Repository to save anything relative to Ironsworn RPG [(https://www.ironswornrpg.com/)](https://www.ironswornrpg.com/)
 
 ## Saved Files
 
